@@ -1,4 +1,4 @@
-# Kriteria Bookshelf Apps
+# Bookshelf Apps Dicoding
 ![image](https://user-images.githubusercontent.com/33348657/127206717-9241ca38-33e9-4cf7-b1ee-884c0760e3f0.png)
 ![image](https://user-images.githubusercontent.com/33348657/127207326-9f38a645-fefd-4506-af27-6a7ade118513.png)
 
