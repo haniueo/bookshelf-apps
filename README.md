@@ -1,4 +1,6 @@
 # Kriteria Bookshelf Apps
+![image](https://user-images.githubusercontent.com/33348657/127206527-b365a728-9597-465a-bde7-a33867c70d11.png)
+
 Buatlah aplikasi web yang dapat memasukan data buku ke dalam rak, memindahkan data buku antar rak, dan menghapus data buku dari rak. 
 
 Untuk lebih jelasnya, terdapat 5 kriteria utama pada Bookshelf Apps yang harus Anda buat.
