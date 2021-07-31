@@ -48,7 +48,7 @@ function buatListBaca(judulB, penulisB, tahunB, waktuB, selesai) {
             buatTombolSampah()
         );
     } else {
-        aksiBuku.append(buatTombolEdit(), buatTombolCek());
+        aksiBuku.append(buatTombolEdit(), buatTombolCek(), buatTombolSampah());
     }
 
     return container;
